@@ -1,6 +1,7 @@
 To run:
-In an empty repository run the following commands in the terminal
-git clone the repository
+Run the following commands in the terminal
+
+clone the repository
 
 npm install --save @solana/web3.js
 
